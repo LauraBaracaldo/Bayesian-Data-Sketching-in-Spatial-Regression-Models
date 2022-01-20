@@ -1,1 +1,2 @@
 # Bayesian-Data-Sketching-in-Spatial-Regression-Models
+We introduce Bayesian data sketching for spatial regression models to obviate computational challenges presented by large numbers of spatial locations and to ensure data confidentiality with respect to locations where data have been collected. To address the challenges of analysing large such data, we compress the spatially oriented data by a random linear transformation to achieve dimension reduction and conduct inference on the compressed data
